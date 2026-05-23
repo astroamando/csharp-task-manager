@@ -1,0 +1,14 @@
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\bin\Debug\net10.0\csharp-task-manager.exe
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\bin\Debug\net10.0\csharp-task-manager.deps.json
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\bin\Debug\net10.0\csharp-task-manager.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\bin\Debug\net10.0\csharp-task-manager.dll
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\bin\Debug\net10.0\csharp-task-manager.pdb
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.dll
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\refint\csharp-task-manager.dll
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.pdb
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\ref\csharp-task-manager.dll
