@@ -12,3 +12,4 @@ C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\refint\csh
 C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.pdb
 C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.genruntimeconfig.cache
 C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\ref\csharp-task-manager.dll
+C:\Users\scott\OneDrive\Desktop\csharp-task-manager\obj\Debug\net10.0\csharp-task-manager.sourcelink.json
