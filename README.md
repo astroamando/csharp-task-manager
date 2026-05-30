@@ -36,4 +36,4 @@ This project was developed for the CSE 310 Applied Programming course.
 
 ## Video Demonstration
 
-Video Link: (Insert your YouTube video link here)
+Video Link: (https://www.youtube.com/watch?v=I9pxFcQaY7I)
